@@ -1,0 +1,8 @@
+django
+djangorestframework
+pillow
+djangorestframework-simplejwt
+python-decouple
+drf-yasg
+django-cors-headers
+django-phonenumber-field[phonenumberslite]
